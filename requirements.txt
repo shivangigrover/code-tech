@@ -1,0 +1,10 @@
+datetime
+python-dateutil
+matplotlib
+numpy
+pandas
+plotly
+scipy
+seaborn
+scikit-learn
+ydata-profiling
